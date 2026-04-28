@@ -1,4 +1,4 @@
-<h2 align="center">Oin, sou a Lara 💜</h2>
+<h2 align="center">Oi-oi, sou a Lara 💜</h2>
  
 <div align="center">  
   <img src="https://readme-typing-svg.herokuapp.com/?color=ce09ec&size=24&center=true&vCenter=true&width=700&lines=.NET+%7C+C%23+%7C+EF+Core+%7C+LINQ;SQL+%7C+MySQL+%7C+JSON;Debugging+%26+Optimization;Backend+Developer+%F0%9F%92%BB;C%23+%7C+.NET+Core+Specialist;RESTful+APIs+%7C+Clean+Code;Sempre+evoluindo+%F0%9F%9A%80"/>
