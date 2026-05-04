@@ -32,9 +32,9 @@
 
 ---
 
-## 🧪 Meus projetos
+## 🧪 Projetos em desenvolvimento
 
-🎮 **RoadmApp (em evolução)**
+🎮 **RoadmApp  
 - Sistema com **cadastro de usuários e autenticação**
 - Uso de **SQLite** para armazenamento leve
 - Estruturado pensando em crescimento (fase inicial sólida)
