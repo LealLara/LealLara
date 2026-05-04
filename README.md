@@ -35,15 +35,24 @@
 
 <p align="center">
 
-<a href="https://github.com/LealLara/TransactionStats">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=LealLara&repo=TransactionStats&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
-</a>
-<!--<a href="https://github.com/LealLara/RoadmApp">
+<a href="https://github.com/LealLara/RoadmApp">
   <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=LealLara&repo=RoadmApp&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
-</a>--!>
+</a>
 
 <a href="https://github.com/LealLara/RadioStream">
   <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=LealLara&repo=RadioStream&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
+</a>
+
+<a href="https://github.com/LealLara/dev-card-lara-leal">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=LealLara&repo=RadioStream&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
+</a>
+
+<a href="https://github.com/LealLara/DotNetFlix">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=LealLara&repo=TransactionStats&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
+</a>
+
+<a href="https://github.com/LealLara/TransactionStats">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=LealLara&repo=TransactionStats&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
 </a>
 
 </p>
