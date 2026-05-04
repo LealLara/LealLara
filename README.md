@@ -6,7 +6,7 @@
   
  
 <p align="center">
-  <img height="160em" src="https://github-profile-trophy.vercel.app/?username=LealLara&theme=gruvbox&no-frame=true&margin-w=20&margin-h=10&column=4"/> 
+ <img height="160em" src="https://github-profile-trophy.vercel.app/?username=LealLara&theme=gruvbox&no-frame=true&margin-w=20&margin-h=10&column=4"/> 
   
   <img height="160em" src="https://streak-stats.demolab.com?user=LealLara&theme=dark&background=0d1116&ring=ce09ec&fire=ce09ec&currStreakLabel=ce09ec"/>
 </p>
@@ -14,7 +14,8 @@
 ---
  
 <p align="center">
-  <!--<img height="170em" src="https://github-readme-stats.vercel.app/api?username=LealLara&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>--!>
+  <!-- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LealLara&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>--!>
+  
  
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LealLara&layout=compact&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb"/>
 </p>
@@ -33,27 +34,19 @@
 
 ## 🧠 Projetos em Destaque
 
-<p align="center">
-
-<a href="https://github.com/LealLara/RoadmApp">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=LealLara&repo=RoadmApp&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
-</a>
-
+<p align="center"> 
 <a href="https://github.com/LealLara/RadioStream">
   <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=LealLara&repo=RadioStream&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
-</a>
-
-<a href="https://github.com/LealLara/dev-card-lara-leal">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=LealLara&repo=RadioStream&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
-</a>
-
-<a href="https://github.com/LealLara/DotNetFlix">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=LealLara&repo=TransactionStats&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
-</a>
-
+</a>  
 <a href="https://github.com/LealLara/TransactionStats">
   <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=LealLara&repo=TransactionStats&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
-</a>
+</a> 
+<a href="https://github.com/LealLara/RadioStream">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=LealLara&repo=RadioStream&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
+</a>  
+<a href="https://github.com/LealLara/TransactionStats">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=LealLara&repo=TransactionStats&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
+</a> 
 
 </p>
 
@@ -75,3 +68,10 @@ Construir soluções úteis, elegantes e que façam a diferença ✨
 <p align="center">
 💾 Em constante evolução a cada solução desenvolvida
 </p>
+
+
+<!--<a href="https://github.com/LealLara/RoadmApp">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=LealLara&repo=RoadmApp&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/> 
+</a>  
+<a href="https://github.com/LealLara/dev-card-lara-leal"> 
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=LealLara&repo=dev-card-lara-leal&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/></a>--!>
