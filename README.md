@@ -34,9 +34,9 @@
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LealLara&layout=compact&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&hide_border=true"/>
 </p>
 
----
 
-## 🧠 Em Destaque
+--- 
+
 
 <p align="center"> 
 
