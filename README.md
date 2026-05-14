@@ -54,6 +54,8 @@
 
 </p>
 
+ 💡 Curiosidade:
+> Criar projetos com pegada de game mudou minha forma de programar — hoje penso mais em interação, fluidez e experiência do usuário, não só em regras de negócio.
  
 --- 
 
@@ -91,8 +93,6 @@
 - Totalmente client-side (sem backend)
 - Publicado via GitHub Pages
 
-💡 Curiosidade:
-> Criar projetos com pegada de game mudou minha forma de programar — hoje penso mais em interação, fluidez e experiência do usuário, não só em regras de negócio.
 
 ---
 
