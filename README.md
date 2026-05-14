@@ -21,6 +21,13 @@
 </p>
 
 ---
+ 
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LealLara&bg_color=141321&color=A9FEF7&line=FE428E&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="90%" />
+</div>
+ 
+--- 
 
 ### 🧠 Sobre mim
 
