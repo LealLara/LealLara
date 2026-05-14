@@ -27,6 +27,10 @@
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/LealLara/LealLara/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
+
+
+---
+
   
 <p align="center"> 
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LealLara&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=ce09ec&hide_border=true&border_radius=10"/>
@@ -34,9 +38,7 @@
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LealLara&layout=compact&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&hide_border=true"/>
 </p>
 
-
 --- 
-
 
 <p align="center"> 
 
