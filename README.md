@@ -14,6 +14,20 @@
 
 ---
 
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LealLara&bg_color=141321&color=A9FEF7&line=FE428E&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="90%" />
+</div>
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LealLara/LealLara/output/github-contribution-grid-snake-dark.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/LealLara/LealLara/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+  
 <p align="center"> 
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LealLara&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=ce09ec&hide_border=true&border_radius=10"/>
   
@@ -21,11 +35,25 @@
 </p>
 
 ---
- 
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LealLara&bg_color=141321&color=A9FEF7&line=FE428E&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="90%" />
-</div>
+
+## 🧠 Em Destaque
+
+<p align="center"> 
+
+<a href="https://github.com/LealLara/RoadmApp">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LealLara&repo=RoadmApp&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=ce09ec"/>
+</a>  
+
+<a href="https://github.com/LealLara/dotnetflix">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LealLara&repo=dotnetflix&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=ce09ec"/>
+</a>  
+
+<a href="https://github.com/LealLara/RadioStream">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LealLara&repo=RadioStream&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=ce09ec"/>
+</a>  
+
+</p>
+
  
 --- 
 
@@ -65,26 +93,6 @@
 
 💡 Curiosidade:
 > Criar projetos com pegada de game mudou minha forma de programar — hoje penso mais em interação, fluidez e experiência do usuário, não só em regras de negócio.
-
----
-
-## 🧠 Em Destaque
-
-<p align="center"> 
-
-<a href="https://github.com/LealLara/RoadmApp">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LealLara&repo=RoadmApp&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=ce09ec"/>
-</a>  
-
-<a href="https://github.com/LealLara/dotnetflix">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LealLara&repo=dotnetflix&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=ce09ec"/>
-</a>  
-
-<a href="https://github.com/LealLara/RadioStream">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LealLara&repo=RadioStream&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=ce09ec"/>
-</a>  
-
-</p>
 
 ---
 
