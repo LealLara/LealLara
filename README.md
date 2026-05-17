@@ -1,19 +1,18 @@
----
 <div align="center"> 
 
 <img src="https://img.itch.zone/aW1nLzI2Nzk0OTQyLmdpZg==/original/dX7yGx.gif" loading="lazy">
 
-</div> 
- 
-
-
-<h2 align="center">Oi-oi, sou a Lara 💜</h2>
+<h2 align="center">Ciao, sono Lara.</h2> 
 
 <div align="center">  
   <img src="https://readme-typing-svg.herokuapp.com/?color=ce09ec&size=24&center=true&vCenter=true&width=700&lines=.NET+%7C+C%23+%7C+EF+Core+%7C+LINQ;SQL+%7C+MySQL+%7C+SQLite;Game+Dev+%7C+Creative+Coding;Backend+Developer+💻;C%23+%7C+.NET+Core+Specialist;RESTful+APIs+%7C+Clean+Code;Sempre+evoluindo+🚀"/>
 </div> 
 
+</div>  
+
+
 ---
+
 
 <div align="center">
   <picture>
