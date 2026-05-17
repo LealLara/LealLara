@@ -54,6 +54,10 @@
   <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LealLara&repo=RadioStream&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=ce09ec"/>
 </a>  
 
+<a href="https://github.com/LealLara/penguin">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LealLara&repo=penguin&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=ce09ec"/>
+</a>  
+
 ---
 
 <h3 align="left">Languages and Tools:</h3> 
