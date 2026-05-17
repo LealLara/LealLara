@@ -4,6 +4,8 @@
 
 <h2 align="center">Ciao, sono Lara.</h2> 
 
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
+
 <div align="center">  
   <img src="https://readme-typing-svg.herokuapp.com/?color=ce09ec&size=24&center=true&vCenter=true&width=700&lines=.NET+%7C+C%23+%7C+EF+Core+%7C+LINQ;SQL+%7C+MySQL+%7C+SQLite;Game+Dev+%7C+Creative+Coding;Backend+Developer+💻;C%23+%7C+.NET+Core+Specialist;RESTful+APIs+%7C+Clean+Code;Sempre+evoluindo+🚀"/>
 </div> 
