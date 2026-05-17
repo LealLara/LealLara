@@ -1,23 +1,17 @@
+---
+<div align="center"> 
+
+<img src="https://img.itch.zone/aW1nLzI2Nzk0OTQyLmdpZg==/original/dX7yGx.gif" loading="lazy">
+
+</div> 
+ 
+
+
 <h2 align="center">Oi-oi, sou a Lara 💜</h2>
 
 <div align="center">  
   <img src="https://readme-typing-svg.herokuapp.com/?color=ce09ec&size=24&center=true&vCenter=true&width=700&lines=.NET+%7C+C%23+%7C+EF+Core+%7C+LINQ;SQL+%7C+MySQL+%7C+SQLite;Game+Dev+%7C+Creative+Coding;Backend+Developer+💻;C%23+%7C+.NET+Core+Specialist;RESTful+APIs+%7C+Clean+Code;Sempre+evoluindo+🚀"/>
 </div> 
-
----
-
-<p align="center">
-  <img height="160em" src="https://github-profile-trophy.vercel.app/?username=LealLara&theme=gruvbox&no-frame=true&margin-w=20&margin-h=10&column=4"/> 
-  
-  <img height="160em" src="https://streak-stats.demolab.com?user=LealLara&theme=dark&background=0d1116&ring=ce09ec&fire=ce09ec&currStreakLabel=ce09ec"/>
-</p>
-
----
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LealLara&bg_color=141321&color=A9FEF7&line=FE428E&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="90%" />
-</div>
 
 ---
 
@@ -31,16 +25,35 @@
 
 ---
 
-  
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LealLara&bg_color=141321&color=A9FEF7&line=FE428E&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="90%" />
+</div>
+
+---
+
+<p align="center">
+  <img height="160em" src="https://github-profile-trophy.vercel.app/?username=LealLara&theme=gruvbox&no-frame=true&margin-w=20&margin-h=10&column=5"/> 
+  <img height="160em" src="https://streak-stats.demolab.com?user=LealLara&theme=dark&background=0d1116&ring=ce09ec&fire=ce09ec&currStreakLabel=ce09ec"/>
+</p>
+
+---
+
 <p align="center"> 
+ 
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LealLara&layout=compact&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&hide_border=true"/>
+  
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LealLara&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=ce09ec&hide_border=true&border_radius=10"/>
   
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LealLara&layout=compact&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&hide_border=true"/>
 </p>
 
 --- 
 
 <p align="center"> 
+
+  <a href="https://github.com/LealLara/penguin">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LealLara&repo=penguin&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=ce09ec"/>
+</a>  
 
 <a href="https://github.com/LealLara/RoadmApp">
   <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LealLara&repo=RoadmApp&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=ce09ec"/>
@@ -52,10 +65,6 @@
 
 <a href="https://github.com/LealLara/RadioStream">
   <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LealLara&repo=RadioStream&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=ce09ec"/>
-</a>  
-
-<a href="https://github.com/LealLara/penguin">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LealLara&repo=penguin&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=ce09ec"/>
 </a>  
 
 ---
@@ -168,7 +177,7 @@
   </a>
 
 </p>
-
+ 
 ---
 
 ## 🌐 Online
