@@ -1,3 +1,22 @@
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/LealLara/github-pacman/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/LealLara/github-pacman/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pacman contribution graph"
+    src="https://raw.githubusercontent.com/LealLara/github-pacman/output/pacman-contribution-graph.svg"
+  />
+</picture>
+
+
+</div>
+
+
 <div align="center"> 
 
 <img src="https://img.itch.zone/aW1nLzI2Nzk0OTQyLmdpZg==/original/dX7yGx.gif" loading="lazy">
@@ -11,20 +30,6 @@
 </div> 
 
 </div>  
-
-
----
-
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LealLara/LealLara/output/github-contribution-grid-snake-dark.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/LealLara/LealLara/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
-
-
----
 
 <!-- Activity Graph -->
 <div align="center">
@@ -197,8 +202,19 @@
 
  💡 Curiosidade:
 > Criar projetos com pegada de game mudou minha forma de programar — hoje penso mais em interação, fluidez e experiência do usuário, não só em regras de negócio.
- 
---- 
+  
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LealLara/LealLara/output/github-contribution-grid-snake-dark.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/LealLara/LealLara/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+
+---
 
 ### 🧠 Sobre mim
 
