@@ -1,4 +1,6 @@
-<picture>
+
+<div>
+  <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/LealLara/github-pacman/output/pacman-contribution-graph-dark.svg"
@@ -12,10 +14,7 @@
     src="https://raw.githubusercontent.com/LealLara/github-pacman/output/pacman-contribution-graph.svg"
   />
 </picture>
-
-
 </div>
-
 
 <div align="center"> 
 
