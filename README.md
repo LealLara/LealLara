@@ -4,28 +4,11 @@
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/LealLara/github-pacman/output/pacman-contribution-graph-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/LealLara/github-pacman/output/pacman-contribution-graph.svg"
-  />
-  <img
-    alt="Pacman Contribution Graph"
-    src="https://raw.githubusercontent.com/LealLara/github-pacman/output/pacman-contribution-graph.svg"
-  />
-</picture>
-
-<br><br>
-
-<img 
-  src="https://img.itch.zone/aW1nLzI2Nzk0OTQyLmdpZg==/original/dX7yGx.gif" 
-  loading="lazy"
-  width="220"
+ <img 
+  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" 
+  width="28"
 />
+
 
 <h1>
   <img 
@@ -34,34 +17,11 @@
 </h1>
 
 <img 
-  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" 
-  width="28"
+  src="https://img.itch.zone/aW1nLzI2Nzk0OTQyLmdpZg==/original/dX7yGx.gif" 
+  loading="lazy"
+  width="220"
 />
 
-</div>
-
----
-
-<!-- ========================= -->
-<!--      ACTIVITY GRAPH       -->
-<!-- ========================= -->
-
-<div align="center">
-
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=LealLara&bg_color=0d1117&color=c9d1d9&line=ce09ec&point=ffffff&area=true&hide_border=true&hide_title=true&radius=14"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img 
-  src="https://raw.githubusercontent.com/LealLara/LealLara/main/profile-3d-contrib/profile-night-rainbow.svg" 
-  width="100%"
-/>
 
 </div>
 
@@ -111,6 +71,17 @@
 </div>
 
 ---
+ 
+<div align="center">
+
+<img 
+  src="https://raw.githubusercontent.com/LealLara/LealLara/main/profile-3d-contrib/profile-night-rainbow.svg" 
+  width="100%"
+/>
+
+</div>
+
+---
 
 <!-- ========================= -->
 <!--     FEATURED PROJECTS     -->
@@ -149,6 +120,39 @@
 </a>
 
 </div>
+
+---
+
+<!-- ========================= -->
+<!--      ACTIVITY GRAPH       -->
+<!-- ========================= -->
+
+<div align="center">
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=LealLara&bg_color=0d1117&color=c9d1d9&line=ce09ec&point=ffffff&area=true&hide_border=true&hide_title=true&radius=14"
+/>
+
+</div>
+
+<br>
+
+---
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/LealLara/github-pacman/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/LealLara/github-pacman/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pacman Contribution Graph"
+    src="https://raw.githubusercontent.com/LealLara/github-pacman/output/pacman-contribution-graph.svg"
+  />
+</picture>
 
 ---
 
@@ -223,14 +227,17 @@ interests:
 User registration and authentication system
 SQLite integration for lightweight storage
 Structured for scalability and future expansion
+<br>
 🍿 Dotnetflix
 Streaming-inspired platform
 Backend-focused architecture
 Content organization and navigation experience
+<br>
 📻 RadioStream
 Audio streaming simulation
 Playback logic and data manipulation
 Designed with scalability in mind
+<br>
 🕹️ Interactive Developer Card
 Gamified interface with animations and sounds
 Fully client-side application
