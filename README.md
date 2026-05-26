@@ -1,6 +1,10 @@
+<!-- ========================= -->
+<!--          HEADER           -->
+<!-- ========================= -->
 
-<div>
-  <picture>
+<div align="center">
+
+<picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/LealLara/github-pacman/output/pacman-contribution-graph-dark.svg"
@@ -10,261 +14,241 @@
     srcset="https://raw.githubusercontent.com/LealLara/github-pacman/output/pacman-contribution-graph.svg"
   />
   <img
-    alt="Pacman contribution graph"
+    alt="Pacman Contribution Graph"
     src="https://raw.githubusercontent.com/LealLara/github-pacman/output/pacman-contribution-graph.svg"
   />
 </picture>
-</div>
 
-<div align="center"> 
+<br><br>
 
-<img src="https://img.itch.zone/aW1nLzI2Nzk0OTQyLmdpZg==/original/dX7yGx.gif" loading="lazy">
+<img 
+  src="https://img.itch.zone/aW1nLzI2Nzk0OTQyLmdpZg==/original/dX7yGx.gif" 
+  loading="lazy"
+  width="220"
+/>
 
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com/?color=ce09ec&size=35&center=true&vCenter=true&width=900&lines=HELLO+WORLD;I'M+LARA+LEAL;C%23+%7C+ASP.NET+Core+%7C+EF+Core;RESTful+API+Development+%7C+Endpoint+Maintenance;Godot+Enthusiast+%7C+Game+Development"/></h2> 
+<h1>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?color=ce09ec&size=34&center=true&vCenter=true&width=1000&lines=HELLO+WORLD,+I'M+LARA+LEAL;Backend+Developer+Specialized+in+.NET;C%23+%7C+ASP.NET+Core+%7C+EF+Core;RESTful+API+Development;Clean+Code+%7C+SOLID+%7C+LINQ;Godot+Enthusiast+%7C+Game+Development"
+  />
+</h1>
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
+<img 
+  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" 
+  width="28"
+/>
 
-</div>  
-
-<!-- Activity Graph -->
-<div align="center">
-
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LealLara&bg_color=141321&color=A9FEF7&line=FE428E&point=FFFFFF&area=true&hide_border=true&hide_title=true&radius=12" />
-  
-</div>
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/LealLara/LealLara/main/profile-3d-contrib/profile-night-rainbow.svg">
-</p>
-
----
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=LealLara&show_icons=true&theme=radical"/>
-  <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=LealLara&theme=radical"/>
 </div>
 
 ---
 
-<p align="center"> 
- 
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LealLara&layout=compact&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&hide_border=true"/>
-  
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LealLara&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=ce09ec&hide_border=true&border_radius=10"/>
-  
-</p>
+<!-- ========================= -->
+<!--      ACTIVITY GRAPH       -->
+<!-- ========================= -->
 
---- 
+<div align="center">
 
-<p align="center"> 
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=LealLara&bg_color=0d1117&color=c9d1d9&line=ce09ec&point=ffffff&area=true&hide_border=true&hide_title=true&radius=14"
+/>
 
-  <a href="https://github.com/LealLara/penguin">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LealLara&repo=penguin&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=ce09ec"/>
-</a>  
+</div>
+
+<br>
+
+<div align="center">
+
+<img 
+  src="https://raw.githubusercontent.com/LealLara/LealLara/main/profile-3d-contrib/profile-night-rainbow.svg" 
+  width="100%"
+/>
+
+</div>
+
+---
+
+<!-- ========================= -->
+<!--          STATS            -->
+<!-- ========================= -->
+
+<div align="center">
+
+<img 
+  width="49%" 
+  src="https://github-readme-stats-fast.vercel.app/api?username=LealLara&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ce09ec&icon_color=ce09ec&text_color=c9d1d9"
+/>
+
+<img 
+  width="49%" 
+  src="https://github-readme-streak-stats-eight.vercel.app/?user=LealLara&theme=radical&hide_border=true&background=0D1117&ring=ce09ec&fire=ce09ec&currStreakLabel=ce09ec"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img 
+  height="170em" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LealLara&layout=compact&bg_color=0D1117&title_color=ce09ec&text_color=c9d1d9&hide_border=true&langs_count=8&border_radius=12"
+/>
+
+</div>
+
+---
+
+<!-- ========================= -->
+<!--         BADGES            -->
+<!-- ========================= -->
+
+<div align="center">
+
+| 👀 Profile Views | 👤 Followers | ⭐ Stars | 💜 Open Source |
+|:---:|:---:|:---:|:---:|
+| ![](https://komarev.com/ghpvc/?username=LealLara&style=for-the-badge&color=ce09ec) | ![](https://img.shields.io/github/followers/LealLara?style=for-the-badge&color=ce09ec&labelColor=0d1117) | ![](https://img.shields.io/github/stars/LealLara?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=ce09ec&labelColor=0d1117) | ![](https://img.shields.io/badge/Open%20Source-Lover-ce09ec?style=for-the-badge&labelColor=0d1117) |
+
+</div>
+
+---
+
+<!-- ========================= -->
+<!--     FEATURED PROJECTS     -->
+<!-- ========================= -->
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+
+<a href="https://github.com/LealLara/penguin">
+  <img 
+    width="400" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LealLara&repo=penguin&bg_color=0D1117&title_color=ce09ec&text_color=c9d1d9&icon_color=ce09ec&hide_border=true"
+  />
+</a>
 
 <a href="https://github.com/LealLara/RoadmApp">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LealLara&repo=RoadmApp&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=ce09ec"/>
-</a>  
+  <img 
+    width="400" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LealLara&repo=RoadmApp&bg_color=0D1117&title_color=ce09ec&text_color=c9d1d9&icon_color=ce09ec&hide_border=true"
+  />
+</a>
 
 <a href="https://github.com/LealLara/dotnetflix">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LealLara&repo=dotnetflix&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=ce09ec"/>
-</a>  
+  <img 
+    width="400" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LealLara&repo=dotnetflix&bg_color=0D1117&title_color=ce09ec&text_color=c9d1d9&icon_color=ce09ec&hide_border=true"
+  />
+</a>
 
 <a href="https://github.com/LealLara/RadioStream">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LealLara&repo=RadioStream&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=ce09ec"/>
-</a>  
+  <img 
+    width="400" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LealLara&repo=RadioStream&bg_color=0D1117&title_color=ce09ec&text_color=c9d1d9&icon_color=ce09ec&hide_border=true"
+  />
+</a>
+
+</div>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3> 
+<!-- ========================= -->
+<!--      TECH STACK           -->
+<!-- ========================= -->
 
-<p align="left">
+<h2 align="center">🛠️ Languages & Tools</h2>
 
-  <!-- Godot -->
-  <a href="https://godotengine.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/>
-  </a>
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=cs,dotnet,godot,java,spring,python,javascript,html,css,bootstrap,angular,jquery,mysql,postgres,sqlite,git,github,vscode,visualstudio" />
 
-  <!-- C# -->
-  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
+</div>
 
-  <!-- .NET -->
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".net" width="40" height="40"/>
-  </a>
-
-
-  <!-- Entity Framework Core -->
-<a href="https://learn.microsoft.com/ef/core/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="entityframework" width="40" height="40"/>
-</a>
-
-
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  </a>
-  
-<!-- Visual Studio 2022 -->
-<a href="https://visualstudio.microsoft.com/vs/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/>
-</a>
- 
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-
-  <!-- SQL Server -->
-  <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40"/>
-  </a>
-
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-
- <!-- VS Code -->
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  </a>
-  
-<!-- Bootstrap -->
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-</a>
-  
-  <!-- HTML -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  </a>
-
-  <!-- CSS -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  </a>
- 
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-
-  <!-- jQuery -->
-<a href="https://jquery.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/>
-</a>
-
-  <!-- Angular -->
-  <a href="https://angular.io/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
-  </a>
-
-  <!-- Java -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-
-  <!-- Spring -->
-  <a href="https://spring.io/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  </a>
-
-  <!-- Python -->
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-
-</p>
- 
 ---
 
-## 🌐 Online
+<!-- ========================= -->
+<!--      ONLINE PROJECT       -->
+<!-- ========================= -->
 
-🎯 Teste meu projeto interativo:
+<h2 align="center">🌐 Interactive Experience</h2>
+
+<div align="center">
+
+### 🎮 Try my interactive developer card
 
 👉 https://leallara.github.io/dev-card-lara-leal/
 
-- Experiência estilo game
-- Sons, animações e interação
-- Publicado com GitHub Pages
+✨ Features:
+- Game-inspired experience
+- Animations, sounds, and interactions
+- Theme switching 🌙☀️
+- Published with GitHub Pages
 
---- 
-
-</p>
-
- 💡 Curiosidade:
-> Criar projetos com pegada de game mudou minha forma de programar — hoje penso mais em interação, fluidez e experiência do usuário, não só em regras de negócio.
-  
-
----
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LealLara/LealLara/output/github-contribution-grid-snake-dark.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/LealLara/LealLara/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
 </div>
 
-
 ---
 
-### 🧠 Sobre mim
+<!-- ========================= -->
+<!--         ABOUT ME          -->
+<!-- ========================= -->
 
-- 🚀 Backend com **C# e .NET Core**
-- 🎮 Interesse forte em **games e experiências interativas**
-- 🗄️ Uso de **MySQL, SQLite e Entity Framework**
-- 🌐 Explorando frontend com **JavaScript puro**
-- 🧩 Foco em **lógica, performance e código limpo**
+<h2 align="center">🧠 About Me</h2>
 
----
+```yaml
+name: Lara Leal
+role: Backend Developer
+focus:
+  - C# & .NET Core
+  - RESTful APIs
+  - Clean Architecture
+  - Entity Framework Core
+  - SQL & Database Design
+  - Interactive Experiences
+  - Game Development with Godot
 
-## 🧪 Projetos em desenvolvimento
+currently_learning:
+  - Advanced Frontend Concepts
+  - Creative Coding
+  - Performance Optimization
 
-🎮 **RoadmApp** 
-- Sistema com **cadastro de usuários e autenticação**
-- Uso de **SQLite** para armazenamento leve
-- Estruturado pensando em crescimento (fase inicial sólida)
-- Base para futuras features mais complexas
+interests:
+  - Backend Engineering
+  - Games & Interactivity
+  - User Experience
+  - Scalable Systems
 
-🍿 **Dotnetflix**
-- Projeto inspirado em streaming (estilo Netflix)
-- Organização de dados e navegação de conteúdo
-- Foco em estrutura backend e experiência
+```
+<!-- ========================= --> <!-- DEVELOPMENT NOTES --> <!-- ========================= --> <h2 align="center">🧪 Projects in Development</h2>
+🎮 RoadmApp
+User registration and authentication system
+SQLite integration for lightweight storage
+Structured for scalability and future expansion
+🍿 Dotnetflix
+Streaming-inspired platform
+Backend-focused architecture
+Content organization and navigation experience
+📻 RadioStream
+Audio streaming simulation
+Playback logic and data manipulation
+Designed with scalability in mind
+🕹️ Interactive Developer Card
+Gamified interface with animations and sounds
+Fully client-side application
+Published with GitHub Pages
+<!-- ========================= --> <!-- GOAL --> <!-- ========================= --> <h2 align="center">🎯 Goal</h2> <p align="center"> Build solid backend solutions combined with immersive and interactive experiences — creating projects that are not only functional, but also enjoyable to use. </p>
+<!-- ========================= --> <!-- SNAKE --> <!-- ========================= --> <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LealLara/LealLara/output/github-contribution-grid-snake-dark.svg" />
 
-📻 **RadioStream**
-- Simulação de streaming de áudio
-- Manipulação de dados e lógica de reprodução
-- Pensado com organização e escalabilidade
+<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/LealLara/LealLara/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
-🎮 **Dev Card interativo (GitHub Pages)**
-- Interface gamificada com animações e sons
-- Alternância de tema 🌙☀️
-- Totalmente client-side (sem backend)
-- Publicado via GitHub Pages
+</div>
+<!-- ========================= --> <!-- FOOTER --> <!-- ========================= --> <div align="center">
 
----
+<img src="https://readme-typing-svg.herokuapp.com/?color=ce09ec&size=24&center=true&vCenter=true&width=1000&lines=Backend+Developer+Specialized+in+.NET;C%23+%7C+ASP.NET+Core+%7C+EF+Core;RESTful+API+Development+%7C+Endpoint+Maintenance;Clean+Code+%7C+SOLID+Principles;LINQ+%7C+SQL+%7C+Database+Design;Creative+Coding+%7C+Problem+Solving;Always+Learning+and+Building+🚀" />
 
-### 🎯 Objetivo
+<br><br>
 
-Unir backend sólido com experiências interativas — criando projetos que não só funcionam bem, mas também são divertidos de usar.
+💻 Backend Developer since 2022
+🎮 Evolving through games, creativity, and interactivity
 
----
-
-
-<div align="center">  
-<img src="https://readme-typing-svg.herokuapp.com/?color=ce09ec&size=24&center=true&vCenter=true&width=900&lines=Backend+Developer+Specialized+in+.NET;C%23+%7C+ASP.NET+Core+%7C+EF+Core;RESTful+API+Development+%7C+Endpoint+Maintenance;Clean+Code+%7C+SOLID+Principles;LINQ+%7C+Database+Design+%7C+SQL;MySQL+%7C+SQLite+%7C+Data+Management;Excel+Automation+and+Spreadsheet+Tools+with+C%23;Godot+Enthusiast+%7C+Game+Development;Creative+Coding+%7C+Problem+Solving;Always+Learning+and+Building+🚀"/>
-</div> 
-
-<p align="center">
-💻 Backend desde 2022 <br>
-🎮 Evoluindo com foco em games e interatividade
-</p>
+</div>
