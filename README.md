@@ -20,13 +20,9 @@
 
 <img src="https://img.itch.zone/aW1nLzI2Nzk0OTQyLmdpZg==/original/dX7yGx.gif" loading="lazy">
 
-<h2 align="center">HELLO WORLD, I'M LARA</h2> 
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com/?color=ce09ec&size=35&center=true&vCenter=true&width=900&lines=HELLO+WORLD;I'M+LARA+LEAL;C%23+%7C+ASP.NET+Core+%7C+EF+Core;RESTful+API+Development+%7C+Endpoint+Maintenance;Godot+Enthusiast+%7C+Game+Development"/></h2> 
 
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
-
-<div align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com/?color=ce09ec&size=24&center=true&vCenter=true&width=700&lines=.NET+%7C+C%23+%7C+EF+Core+%7C+LINQ;SQL+%7C+MySQL+%7C+SQLite;Game+Dev+%7C+Creative+Coding;Backend+Developer+💻;C%23+%7C+.NET+Core+Specialist;RESTful+APIs+%7C+Clean+Code;Sempre+evoluindo+🚀"/>
-</div> 
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
 
 </div>  
 
@@ -37,12 +33,16 @@
   
 </div>
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/LealLara/LealLara/main/profile-3d-contrib/profile-night-rainbow.svg">
+</p>
+
 ---
 
-<p align="center">
-  <img height="160em" src="https://github-profile-trophy.vercel.app/?username=LealLara&theme=gruvbox&no-frame=true&margin-w=20&margin-h=10&column=5"/> 
-  <img height="160em" src="https://streak-stats.demolab.com?user=LealLara&theme=dark&background=0d1116&ring=ce09ec&fire=ce09ec&currStreakLabel=ce09ec"/>
-</p>
+<div align="center">
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=LealLara&show_icons=true&theme=radical"/>
+  <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=LealLara&theme=radical"/>
+</div>
 
 ---
 
@@ -258,6 +258,11 @@
 Unir backend sólido com experiências interativas — criando projetos que não só funcionam bem, mas também são divertidos de usar.
 
 ---
+
+
+<div align="center">  
+<img src="https://readme-typing-svg.herokuapp.com/?color=ce09ec&size=24&center=true&vCenter=true&width=900&lines=Backend+Developer+Specialized+in+.NET;C%23+%7C+ASP.NET+Core+%7C+EF+Core;RESTful+API+Development+%7C+Endpoint+Maintenance;Clean+Code+%7C+SOLID+Principles;LINQ+%7C+Database+Design+%7C+SQL;MySQL+%7C+SQLite+%7C+Data+Management;Excel+Automation+and+Spreadsheet+Tools+with+C%23;Godot+Enthusiast+%7C+Game+Development;Creative+Coding+%7C+Problem+Solving;Always+Learning+and+Building+🚀"/>
+</div> 
 
 <p align="center">
 💻 Backend desde 2022 <br>
