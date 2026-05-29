@@ -167,6 +167,63 @@ Creating code, solving problems, shipping ideas and occasionally winning battles
 </div>
 
 ---
+
+
+
+
+<!-- ========================= --> <!-- DEVELOPMENT NOTES --> <!-- ========================= --> <h2 align="center">🧪 Projects in Development</h2>
+🎮 RoadmApp
+User registration and authentication system
+SQLite integration for lightweight storage
+Structured for scalability and future expansion
+<br>
+🍿 Dotnetflix
+Streaming-inspired platform
+Backend-focused architecture
+Content organization and navigation experience
+<br>
+📻 RadioStream
+Audio streaming simulation
+Playback logic and data manipulation
+Designed with scalability in mind
+<br>
+🕹️ Interactive Developer Card
+Gamified interface with animations and sounds
+Fully client-side application
+Published with GitHub Pages
+<!-- ========================= --> <!-- GOAL --> <!-- ========================= --> <h2 align="center">🎯 Goal</h2> <p align="center"> Build solid backend solutions combined with immersive and interactive experiences — creating projects that are not only functional, but also enjoyable to use. </p>
+<!-- ========================= --> <!-- SNAKE --> <!-- ========================= --> <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LealLara/LealLara/output/github-contribution-grid-snake-dark.svg" />
+
+<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/LealLara/LealLara/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+---
+
+
+<!-- ========================= -->
+<!--      ONLINE PROJECT       -->
+<!-- ========================= -->
+
+<h2 align="center">🌐 Interactive Experience</h2>
+
+<div align="center">
+
+### 🎮 Try my interactive developer card
+
+👉 https://leallara.github.io/dev-card-lara-leal/
+
+✨ Features:
+- Game-inspired experience
+- Animations, sounds, and interactions
+- Theme switching 🌙☀️
+- Published with GitHub Pages
+
+</div>
+
+
+---
  
 
 <!-- ========================= -->
@@ -226,57 +283,6 @@ Creating code, solving problems, shipping ideas and occasionally winning battles
 | 👀 Profile Views | 👤 Followers | ⭐ Stars | 💜 Open Source |
 |:---:|:---:|:---:|:---:|
 | ![](https://komarev.com/ghpvc/?username=LealLara&style=for-the-badge&color=ce09ec) | ![](https://img.shields.io/github/followers/LealLara?style=for-the-badge&color=ce09ec&labelColor=0d1117) | ![](https://img.shields.io/github/stars/LealLara?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=ce09ec&labelColor=0d1117) | ![](https://img.shields.io/badge/Open%20Source-Lover-ce09ec?style=for-the-badge&labelColor=0d1117) |
-
-</div>
-
-
-<!-- ========================= -->
-<!--      ONLINE PROJECT       -->
-<!-- ========================= -->
-
-<h2 align="center">🌐 Interactive Experience</h2>
-
-<div align="center">
-
-### 🎮 Try my interactive developer card
-
-👉 https://leallara.github.io/dev-card-lara-leal/
-
-✨ Features:
-- Game-inspired experience
-- Animations, sounds, and interactions
-- Theme switching 🌙☀️
-- Published with GitHub Pages
-
-</div>
-
----
-
-<!-- ========================= --> <!-- DEVELOPMENT NOTES --> <!-- ========================= --> <h2 align="center">🧪 Projects in Development</h2>
-🎮 RoadmApp
-User registration and authentication system
-SQLite integration for lightweight storage
-Structured for scalability and future expansion
-<br>
-🍿 Dotnetflix
-Streaming-inspired platform
-Backend-focused architecture
-Content organization and navigation experience
-<br>
-📻 RadioStream
-Audio streaming simulation
-Playback logic and data manipulation
-Designed with scalability in mind
-<br>
-🕹️ Interactive Developer Card
-Gamified interface with animations and sounds
-Fully client-side application
-Published with GitHub Pages
-<!-- ========================= --> <!-- GOAL --> <!-- ========================= --> <h2 align="center">🎯 Goal</h2> <p align="center"> Build solid backend solutions combined with immersive and interactive experiences — creating projects that are not only functional, but also enjoyable to use. </p>
-<!-- ========================= --> <!-- SNAKE --> <!-- ========================= --> <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LealLara/LealLara/output/github-contribution-grid-snake-dark.svg" />
-
-<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/LealLara/LealLara/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
 
 </div>
 
