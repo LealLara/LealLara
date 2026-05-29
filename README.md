@@ -169,6 +169,34 @@ Creating code, solving problems, shipping ideas and occasionally winning battles
 ---
 
 
+<!-- ========================= -->
+<!--      ACTIVITY GRAPH       -->
+<!-- ========================= -->
+
+<div align="center">
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=LealLara&bg_color=0d1117&color=c9d1d9&line=ce09ec&point=ffffff&area=true&hide_border=true&hide_title=true&radius=14"
+/>
+
+</div>
+
+<br>
+
+--- 
+ 
+
+
+
+
+<!-- ========================= --> <!-- GOAL --> <!-- ========================= --> <h2 align="center">🎯 Goal</h2> <p align="center"> Build solid backend solutions combined with immersive and interactive experiences — creating projects that are not only functional, but also enjoyable to use. </p>
+<!-- ========================= --> <!-- SNAKE --> <!-- ========================= --> <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LealLara/LealLara/output/github-contribution-grid-snake-dark.svg" />
+
+<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/LealLara/LealLara/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+
+---
 
 
 <!-- ========================= --> <!-- DEVELOPMENT NOTES --> <!-- ========================= --> <h2 align="center">🧪 Projects in Development</h2>
@@ -191,36 +219,7 @@ Designed with scalability in mind
 Gamified interface with animations and sounds
 Fully client-side application
 Published with GitHub Pages
-<!-- ========================= --> <!-- GOAL --> <!-- ========================= --> <h2 align="center">🎯 Goal</h2> <p align="center"> Build solid backend solutions combined with immersive and interactive experiences — creating projects that are not only functional, but also enjoyable to use. </p>
-<!-- ========================= --> <!-- SNAKE --> <!-- ========================= --> <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LealLara/LealLara/output/github-contribution-grid-snake-dark.svg" />
 
-<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/LealLara/LealLara/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
-</div>
-
----
-
-
-<!-- ========================= -->
-<!--      ONLINE PROJECT       -->
-<!-- ========================= -->
-
-<h2 align="center">🌐 Interactive Experience</h2>
-
-<div align="center">
-
-### 🎮 Try my interactive developer card
-
-👉 https://leallara.github.io/dev-card-lara-leal/
-
-✨ Features:
-- Game-inspired experience
-- Animations, sounds, and interactions
-- Theme switching 🌙☀️
-- Published with GitHub Pages
-
-</div>
 
 
 ---
@@ -255,24 +254,34 @@ Published with GitHub Pages
 
 </div>
 
+
+</div>
+
 ---
 
 
 <!-- ========================= -->
-<!--      ACTIVITY GRAPH       -->
+<!--      ONLINE PROJECT       -->
 <!-- ========================= -->
+
+<h2 align="center">🌐 Interactive Experience</h2>
 
 <div align="center">
 
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=LealLara&bg_color=0d1117&color=c9d1d9&line=ce09ec&point=ffffff&area=true&hide_border=true&hide_title=true&radius=14"
-/>
+### 🎮 Try my interactive developer card
+
+👉 https://leallara.github.io/dev-card-lara-leal/
+
+✨ Features:
+- Game-inspired experience
+- Animations, sounds, and interactions
+- Theme switching 🌙☀️
+- Published with GitHub Pages
 
 </div>
 
-<br>
 
---- 
+
 
 <!-- ========================= -->
 <!--         BADGES            -->
@@ -286,10 +295,7 @@ Published with GitHub Pages
 
 </div>
 
-
-
-
----
+ ---
  
 <div align="center">
 
