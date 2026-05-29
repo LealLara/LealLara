@@ -25,63 +25,26 @@
 
 </div>
 
----
-
-<!-- ========================= -->
-<!--          STATS            -->
-<!-- ========================= -->
-
-<div align="center">
-
-<img 
-  width="49%" 
-  src="https://github-readme-stats-fast.vercel.app/api?username=LealLara&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ce09ec&icon_color=ce09ec&text_color=c9d1d9"
-/>
-
-<img 
-  width="49%" 
-  src="https://github-readme-streak-stats-eight.vercel.app/?user=LealLara&theme=radical&hide_border=true&background=0D1117&ring=ce09ec&fire=ce09ec&currStreakLabel=ce09ec"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img 
-  height="170em" 
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LealLara&layout=compact&bg_color=0D1117&title_color=ce09ec&text_color=c9d1d9&hide_border=true&langs_count=8&border_radius=12"
-/>
-
-</div>
 
 ---
 
-<!-- ========================= -->
-<!--         BADGES            -->
-<!-- ========================= -->
-
-<div align="center">
-
-| 👀 Profile Views | 👤 Followers | ⭐ Stars | 💜 Open Source |
-|:---:|:---:|:---:|:---:|
-| ![](https://komarev.com/ghpvc/?username=LealLara&style=for-the-badge&color=ce09ec) | ![](https://img.shields.io/github/followers/LealLara?style=for-the-badge&color=ce09ec&labelColor=0d1117) | ![](https://img.shields.io/github/stars/LealLara?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=ce09ec&labelColor=0d1117) | ![](https://img.shields.io/badge/Open%20Source-Lover-ce09ec?style=for-the-badge&labelColor=0d1117) |
-
-</div>
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/LealLara/github-pacman/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/LealLara/github-pacman/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pacman Contribution Graph"
+    src="https://raw.githubusercontent.com/LealLara/github-pacman/output/pacman-contribution-graph.svg"
+  />
+</picture>
+ 
 ---
  
-<div align="center">
-
-<img 
-  src="https://raw.githubusercontent.com/LealLara/LealLara/main/profile-3d-contrib/profile-night-rainbow.svg" 
-  width="100%"
-/>
-
-</div>
-
----
 
 <!-- ========================= -->
 <!--     FEATURED PROJECTS     -->
@@ -121,6 +84,81 @@
 
 ---
 
+
+---
+
+<!-- ========================= -->
+<!--       SUPPORT ME          -->
+<!-- ========================= -->
+
+<div align="center">
+
+## 💜 Fuel Future Projects
+
+<table>
+<tr>
+<td align="center" width="700">
+
+Building apps, templates, dashboards, developer tools, creative assets and open-source experiments.
+
+If you enjoy my work and want to help keep new projects coming, you can support me here:
+
+<br><br>
+
+<a href="https://buymeacoffee.com/leallara">
+  <img src="https://img.shields.io/badge/☕_Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000"/>
+</a>
+
+<a href="https://github.com/sponsors/LealLara">
+  <img src="https://img.shields.io/badge/❤️_GitHub_Sponsors-ce09ec?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
+</a>
+
+<br><br>
+
+<i>
+Creating code, solving problems, shipping ideas and occasionally winning battles against mysterious bugs.
+</i>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+ 
+
+<!-- ========================= -->
+<!--          STATS            -->
+<!-- ========================= -->
+
+<div align="center">
+
+<img 
+  width="49%" 
+  src="https://github-readme-stats-fast.vercel.app/api?username=LealLara&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ce09ec&icon_color=ce09ec&text_color=c9d1d9"
+/>
+
+<img 
+  width="49%" 
+  src="https://github-readme-streak-stats-eight.vercel.app/?user=LealLara&theme=radical&hide_border=true&background=0D1117&ring=ce09ec&fire=ce09ec&currStreakLabel=ce09ec"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img 
+  height="170em" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LealLara&layout=compact&bg_color=0D1117&title_color=ce09ec&text_color=c9d1d9&hide_border=true&langs_count=8&border_radius=12"
+/>
+
+</div>
+
+---
+
 <!-- ========================= -->
 <!--      ACTIVITY GRAPH       -->
 <!-- ========================= -->
@@ -137,22 +175,29 @@
 
 ---
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/LealLara/github-pacman/output/pacman-contribution-graph-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/LealLara/github-pacman/output/pacman-contribution-graph.svg"
-  />
-  <img
-    alt="Pacman Contribution Graph"
-    src="https://raw.githubusercontent.com/LealLara/github-pacman/output/pacman-contribution-graph.svg"
-  />
-</picture>
+<!-- ========================= -->
+<!--         BADGES            -->
+<!-- ========================= -->
+
+<div align="center">
+
+| 👀 Profile Views | 👤 Followers | ⭐ Stars | 💜 Open Source |
+|:---:|:---:|:---:|:---:|
+| ![](https://komarev.com/ghpvc/?username=LealLara&style=for-the-badge&color=ce09ec) | ![](https://img.shields.io/github/followers/LealLara?style=for-the-badge&color=ce09ec&labelColor=0d1117) | ![](https://img.shields.io/github/stars/LealLara?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=ce09ec&labelColor=0d1117) | ![](https://img.shields.io/badge/Open%20Source-Lover-ce09ec?style=for-the-badge&labelColor=0d1117) |
+
+</div>
 
 ---
+ 
+<div align="center">
+
+<img 
+  src="https://raw.githubusercontent.com/LealLara/LealLara/main/profile-3d-contrib/profile-night-rainbow.svg" 
+  width="100%"
+/>
+
+</div>
+
 
 <!-- ========================= -->
 <!--      TECH STACK           -->
