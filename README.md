@@ -25,7 +25,6 @@
 
 </div>
 
-
 ---
 
 <picture>
@@ -44,7 +43,39 @@
 </picture>
  
 ---
- 
+
+<!-- ========================= -->
+<!--         ABOUT ME          -->
+<!-- ========================= -->
+
+<h2 align="center">🧠 About Me</h2>
+
+```yaml
+name: Lara Leal
+role: Backend Developer
+focus:
+  - C# & .NET Core
+  - RESTful APIs
+  - Clean Architecture
+  - Entity Framework Core
+  - SQL & Database Design
+  - Interactive Experiences
+  - Game Development with Godot
+
+currently_learning:
+  - Advanced Frontend Concepts
+  - Creative Coding
+  - Performance Optimization
+
+interests:
+  - Backend Engineering
+  - Games & Interactivity
+  - User Experience
+  - Scalable Systems
+
+```
+
+---
 
 <!-- ========================= -->
 <!--     FEATURED PROJECTS     -->
@@ -77,15 +108,25 @@
     width="400" 
     src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LealLara&repo=RadioStream&bg_color=0D1117&title_color=ce09ec&text_color=c9d1d9&icon_color=ce09ec&hide_border=true"
   /></a>
+ 
+</div>
 
+---
+ 
+<!-- ========================= -->
+<!--      TECH STACK           -->
+<!-- ========================= -->
 
+<h2 align="center">🛠️ Languages & Tools</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,godot,java,spring,python,javascript,html,css,bootstrap,angular,jquery,mysql,postgres,sqlite,git,github,vscode,visualstudio" />
 
 </div>
 
 ---
-
-
----
+ 
 
 <!-- ========================= -->
 <!--       SUPPORT ME          -->
@@ -159,6 +200,7 @@ Creating code, solving problems, shipping ideas and occasionally winning battles
 
 ---
 
+
 <!-- ========================= -->
 <!--      ACTIVITY GRAPH       -->
 <!-- ========================= -->
@@ -173,7 +215,7 @@ Creating code, solving problems, shipping ideas and occasionally winning battles
 
 <br>
 
----
+--- 
 
 <!-- ========================= -->
 <!--         BADGES            -->
@@ -187,31 +229,6 @@ Creating code, solving problems, shipping ideas and occasionally winning battles
 
 </div>
 
----
- 
-<div align="center">
-
-<img 
-  src="https://raw.githubusercontent.com/LealLara/LealLara/main/profile-3d-contrib/profile-night-rainbow.svg" 
-  width="100%"
-/>
-
-</div>
-
-
-<!-- ========================= -->
-<!--      TECH STACK           -->
-<!-- ========================= -->
-
-<h2 align="center">🛠️ Languages & Tools</h2>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,godot,java,spring,python,javascript,html,css,bootstrap,angular,jquery,mysql,postgres,sqlite,git,github,vscode,visualstudio" />
-
-</div>
-
----
 
 <!-- ========================= -->
 <!--      ONLINE PROJECT       -->
@@ -235,36 +252,6 @@ Creating code, solving problems, shipping ideas and occasionally winning battles
 
 ---
 
-<!-- ========================= -->
-<!--         ABOUT ME          -->
-<!-- ========================= -->
-
-<h2 align="center">🧠 About Me</h2>
-
-```yaml
-name: Lara Leal
-role: Backend Developer
-focus:
-  - C# & .NET Core
-  - RESTful APIs
-  - Clean Architecture
-  - Entity Framework Core
-  - SQL & Database Design
-  - Interactive Experiences
-  - Game Development with Godot
-
-currently_learning:
-  - Advanced Frontend Concepts
-  - Creative Coding
-  - Performance Optimization
-
-interests:
-  - Backend Engineering
-  - Games & Interactivity
-  - User Experience
-  - Scalable Systems
-
-```
 <!-- ========================= --> <!-- DEVELOPMENT NOTES --> <!-- ========================= --> <h2 align="center">🧪 Projects in Development</h2>
 🎮 RoadmApp
 User registration and authentication system
@@ -292,9 +279,21 @@ Published with GitHub Pages
 </picture>
 
 </div>
-<!-- ========================= --> <!-- FOOTER --> <!-- ========================= --> <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=ce09ec&size=24&center=true&vCenter=true&width=1000&lines=Backend+Developer+Specialized+in+.NET;C%23+%7C+ASP.NET+Core+%7C+EF+Core;RESTful+API+Development+%7C+Endpoint+Maintenance;Clean+Code+%7C+SOLID+Principles;LINQ+%7C+SQL+%7C+Database+Design;Creative+Coding+%7C+Problem+Solving;Always+Learning+and+Building+🚀" />
+
+
+
+---
+ 
+<div align="center">
+
+<img 
+  src="https://raw.githubusercontent.com/LealLara/LealLara/main/profile-3d-contrib/profile-night-rainbow.svg" 
+  width="100%"
+/>
+
+
+---
 
 <br><br>
 
@@ -302,3 +301,11 @@ Published with GitHub Pages
 🎮 Evolving through games, creativity, and interactivity
 
 </div>
+
+
+</div>
+
+
+<!-- ========================= --> <!-- FOOTER --> <!-- ========================= --> <div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?color=ce09ec&size=24&center=true&vCenter=true&width=1000&lines=Backend+Developer+Specialized+in+.NET;C%23+%7C+ASP.NET+Core+%7C+EF+Core;RESTful+API+Development+%7C+Endpoint+Maintenance;Clean+Code+%7C+SOLID+Principles;LINQ+%7C+SQL+%7C+Database+Design;Creative+Coding+%7C+Problem+Solving;Always+Learning+and+Building+🚀" />
