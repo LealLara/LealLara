@@ -231,6 +231,8 @@ Published with GitHub Pages
 
 <div align="center">
 
+
+
 <img 
   width="49%" 
   src="https://github-readme-stats-fast.vercel.app/api?username=LealLara&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ce09ec&icon_color=ce09ec&text_color=c9d1d9"
@@ -247,9 +249,9 @@ Published with GitHub Pages
 
 <div align="center">
 
-<img 
-  height="170em" 
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LealLara&layout=compact&bg_color=0D1117&title_color=ce09ec&text_color=c9d1d9&hide_border=true&langs_count=8&border_radius=12"
+ <img
+  height="170em"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LealLara&layout=compact&langs_count=20&bg_color=0D1117&title_color=ce09ec&text_color=c9d1d9&hide_border=true&border_radius=12"
 />
 
 </div>
