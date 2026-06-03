@@ -234,6 +234,15 @@ Fully client-side application
 Published with GitHub Pages
 
 
+---
+
+
+<div align="center">
+
+<img 
+  src="https://raw.githubusercontent.com/LealLara/LealLara/main/profile-3d-contrib/profile-night-rainbow.svg" 
+  width="100%"
+/>
 
 ---
  
@@ -244,6 +253,15 @@ Published with GitHub Pages
 
 <div align="center">
 
+ <img
+  height="170em"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LealLara&layout=compact&langs_count=20&bg_color=0D1117&title_color=ce09ec&text_color=c9d1d9&hide_border=true&border_radius=12"
+/>
+
+</div>
+
+
+<div align="center">
 
 
 <img 
@@ -260,19 +278,13 @@ Published with GitHub Pages
 
 <br>
 
-<div align="center">
-
- <img
-  height="170em"
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LealLara&layout=compact&langs_count=20&bg_color=0D1117&title_color=ce09ec&text_color=c9d1d9&hide_border=true&border_radius=12"
-/>
-
-</div>
 
 
 </div>
+
 
 ---
+
 
 
 <!-- ========================= -->
@@ -312,16 +324,6 @@ Published with GitHub Pages
 
  ---
  
-<div align="center">
-
-<img 
-  src="https://raw.githubusercontent.com/LealLara/LealLara/main/profile-3d-contrib/profile-night-rainbow.svg" 
-  width="100%"
-/>
-
-
----
-
 <br><br>
 
 💻 Backend Developer since 2022
