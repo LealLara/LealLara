@@ -9,7 +9,6 @@
   width="28"
 />
 
-
 <h1>
   <img 
     src="https://readme-typing-svg.herokuapp.com/?color=ce09ec&size=34&center=true&vCenter=true&width=1000&lines=HELLO+WORLD,+I'M+LARA+LEAL;Backend+Developer+Specialized+in+.NET;C%23+%7C+ASP.NET+Core+%7C+EF+Core;RESTful+API+Development;Clean+Code+%7C+SOLID+%7C+LINQ;Godot+Enthusiast+%7C+Game+Development"
@@ -24,7 +23,24 @@
 
 
 </div>
- 
+
+---
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/LealLara/github-pacman/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/LealLara/github-pacman/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pacman Contribution Graph"
+    src="https://raw.githubusercontent.com/LealLara/github-pacman/output/pacman-contribution-graph.svg"
+  />
+</picture>
+
 ---
 
 <!-- ========================= -->
