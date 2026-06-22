@@ -269,10 +269,7 @@ Published with GitHub Pages
   src="https://github-readme-stats-fast.vercel.app/api?username=LealLara&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ce09ec&icon_color=ce09ec&text_color=c9d1d9"
 />
 
-<img 
-  width="49%" 
-  src="https://github-readme-streak-stats-eight.vercel.app/?user=LealLara&theme=radical&hide_border=true&background=0D1117&ring=ce09ec&fire=ce09ec&currStreakLabel=ce09ec"
-/>
+
 
 </div>
 
