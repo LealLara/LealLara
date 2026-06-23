@@ -86,7 +86,7 @@ interests:
 
 <div align="center">
 
-<a href="https://github.com/LealLara/RoadmApp-Angular">
+<a href="https://github.com/LealLara/PetStore-Inventory-API">
   <img 
     width="400" 
     src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LealLara&repo=PetStore-Inventory-API&bg_color=0D1117&title_color=ce09ec&text_color=c9d1d9&icon_color=ce09ec&hide_border=true"
