@@ -181,7 +181,6 @@ Creating code, solving problems, shipping ideas and occasionally winning battles
 
 ---
 
-
 <!-- ========================= -->
 <!--      ACTIVITY GRAPH       -->
 <!-- ========================= -->
