@@ -198,10 +198,6 @@ Creating code, solving problems, shipping ideas and occasionally winning battles
 
 --- 
  
-
-
-
-
 <!-- ========================= --> <!-- GOAL --> <!-- ========================= --> <h2 align="center">🎯 Goal</h2> <p align="center"> Build solid backend solutions combined with immersive and interactive experiences — creating projects that are not only functional, but also enjoyable to use. </p>
 <!-- ========================= --> <!-- SNAKE --> <!-- ========================= --> <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LealLara/LealLara/output/github-contribution-grid-snake-dark.svg" />
 
