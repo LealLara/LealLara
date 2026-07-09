@@ -203,9 +203,7 @@ Creating code, solving problems, shipping ideas and occasionally winning battles
 <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/LealLara/LealLara/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
-
 ---
-
 
 <!-- ========================= --> <!-- DEVELOPMENT NOTES --> <!-- ========================= --> <h2 align="center">🧪 Projects in Development</h2>
 🎮 RoadmApp
