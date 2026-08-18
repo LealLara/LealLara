@@ -80,50 +80,59 @@ interests:
 <!-- ========================= -->
 <!--     FEATURED PROJECTS     -->
 <!-- ========================= -->
+ 
 
 <h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
 
 <a href="https://github.com/LealLara/PetStore-Inventory-API">
-  <img 
-    width="400" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LealLara&repo=PetStore-Inventory-API&bg_color=0D1117&title_color=ce09ec&text_color=c9d1d9&icon_color=ce09ec&hide_border=true"
-  /></a>
+  <img
+    width="400"
+    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=LealLara&repo=PetStore-Inventory-API&theme=dark&hide_border=true"
+  />
+</a>
 
 <a href="https://github.com/LealLara/pixel-me">
-  <img 
-    width="400" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LealLara&repo=pixel-me&bg_color=0D1117&title_color=ce09ec&text_color=c9d1d9&icon_color=ce09ec&hide_border=true"
-  /></a>
+  <img
+    width="400"
+    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=LealLara&repo=pixel-me&theme=dark&hide_border=true"
+  />
+</a>
 
-  
+<br><br>
+
 <a href="https://github.com/LealLara/RadioStream">
-  <img 
-    width="400" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LealLara&repo=RadioStream&bg_color=0D1117&title_color=ce09ec&text_color=c9d1d9&icon_color=ce09ec&hide_border=true"
-  /></a>
- 
+  <img
+    width="400"
+    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=LealLara&repo=RadioStream&theme=dark&hide_border=true"
+  />
+</a>
+
 <a href="https://github.com/LealLara/penguin">
-  <img 
-    width="400" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LealLara&repo=penguin&bg_color=0D1117&title_color=ce09ec&text_color=c9d1d9&icon_color=ce09ec&hide_border=true"
-  /></a>
-  
+  <img
+    width="400"
+    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=LealLara&repo=penguin&theme=dark&hide_border=true"
+  />
+</a>
+
+<br><br>
+
 <a href="https://github.com/LealLara/zodiacVibes">
-  <img 
-    width="400" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LealLara&repo=zodiacVibes&bg_color=0D1117&title_color=ce09ec&text_color=c9d1d9&icon_color=ce09ec&hide_border=true"
-  /></a>
+  <img
+    width="400"
+    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=LealLara&repo=zodiacVibes&theme=dark&hide_border=true"
+  />
+</a>
 
 <a href="https://github.com/LealLara/dotnetflix">
-  <img 
-    width="400" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LealLara&repo=dotnetflix&bg_color=0D1117&title_color=ce09ec&text_color=c9d1d9&icon_color=ce09ec&hide_border=true"
-  /></a>
+  <img
+    width="400"
+    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=LealLara&repo=dotnetflix&theme=dark&hide_border=true"
+  />
+</a>
 
 </div>
-
 ---
  
 <!-- ========================= -->
